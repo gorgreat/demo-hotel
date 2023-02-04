@@ -1,4 +1,53 @@
 {
+  "settings": [
+    {
+      "id": 1,
+      "hotel": {
+        "name": "demo-hotel",
+        "logo": "https://egormakarov.ru/hotel/hotels/logo.png",        
+        "address": "г. Москва, Старопетровский проезд, 10Б",
+        "phone1" : {
+          "short" : "+7 (800) 000-00-01",
+          "full" : "+78000000001",
+          "viber": true,
+          "whatsApp": true,
+          "telegramm": true
+        },
+        "phone2" : {
+          "short" : "+7 (800) 000-00-02",
+          "full" : "+78000000002",
+          "viber": true,
+          "whatsApp": true,
+          "telegramm": true
+        },
+        "phone3" : {
+          "short" : "+7 (800) 000-00-03",
+          "full" : "+78000000003",
+          "viber": true,
+          "whatsApp": true,
+          "telegramm": true
+        },
+        "phone4" : {
+          "short" : "+7 (800) 000-00-04",
+          "full" : "+78000000004",
+          "viber": true,
+          "whatsApp": true,
+          "telegramm": true
+        },
+        "map": "55.822953, 37.508822",
+        "email": "demotelemail@hotel.ru"
+      },
+      "social": {
+        "vk": "https://vk.com/",
+        "vkId": "58513740",
+        "facebook": "https://facebook.com/",
+        "instagram": "https://instagram.com/",
+        "twitter": "https://twitter.com/",
+        "ok": "https://ok.com/",
+        "youtube": "https://youtube.com/"
+      }
+    }
+  ],
   "posts": [
     {
       "id": 1,
